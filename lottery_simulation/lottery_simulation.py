@@ -17,3 +17,6 @@ for i in range(365):
 print("Amount in account",account)
 plt.plot(x,y)
 plt.show()
+
+Output---> Amount :  1300 (Figure_1.png)
+           Amount : -5000 (Figure_2.png)
